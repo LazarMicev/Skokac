@@ -180,7 +180,8 @@ public class myCircle : Button
 8.	Во моментот кога ќе ја погодите комбинацијата, истата ќе ви биде прикажана во делот со прашалници.
 
 Во продолжение е даден изгледот на играта.  
-![image](https://github.com/LazarMicev/Skokac/assets/108904154/ad3ec584-a6e8-4686-93c7-e0cede98f967)  
+![image](https://github.com/LazarMicev/Skokac/assets/109044031/457c6573-1a3d-41f1-a715-56f2d45deb08)
+  
 **Изработилe:  
 Јана Јанкоска 216031  
 Лазар Мицев 213225**
